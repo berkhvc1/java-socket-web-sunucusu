@@ -4,7 +4,7 @@ Java'nın standart kütüphanesiyle geliştirilen bu uygulama, **1989** numaral�
 
 **Hazırlayan:** Bekir Berk Kahveci  
 **Bölüm:** Kırklareli Üniversitesi, Yazılım Mühendisliği  
-**Öğrenci numarası:** `OGRENCI_NUMARANIZ` (teslimden önce doldurulmalıdır)
+**Öğrenci numarası:** `OGRENCI_NUMARANIZ`
 
 ## Özellikler
 
